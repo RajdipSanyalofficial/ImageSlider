@@ -1,1 +1,1 @@
-This is JS Image Slider Project.
+This is JS Image Slider Mini Project.
