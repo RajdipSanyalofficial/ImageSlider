@@ -1,1 +1,1 @@
-This is JS image slider project
+This is JS Image Slider Project.
